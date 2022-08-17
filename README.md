@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Auversack Damien</h1>
 <h3 align="center">A passionate Software Developer from Belgium <a href="#">
-    <img src="https://github.com/damien-auversack/damien-auversack/master/loader.gif">
+    <img src="https://github.com/damien-auversack/damien-auversack/blob/main/loader.gif">
   </a></h3>
 
 <h3 align="left">Connect with me:</h3>
