@@ -61,7 +61,7 @@
     />
   </a>
 
-  <break/>
+  <br/>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -87,7 +87,7 @@
     />
   </a>
 
-  <break/>
+  <br/>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -105,7 +105,7 @@
     />
   </a>
 
-  <break/>
+  <br/>
   <a href="https://www.microsoft.com/en-us/sql-server"
     target="\_blank"
     rel="noreferrer">
