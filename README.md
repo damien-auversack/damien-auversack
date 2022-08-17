@@ -69,7 +69,6 @@
     />
   </a>
 
-  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -96,9 +95,8 @@
   </a>
 
   <a href="https://www.microsoft.com/en-us/sql-server"
-    target="_blank"
-    rel="noreferrer"
-  >
+    target="\_blank"
+    rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
       alt="mssql"
