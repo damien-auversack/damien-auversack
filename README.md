@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Auversack Damien <a href="#"><img style="width: 80px;height: 80px;" src="https://github.com/damien-auversack/damien-auversack/blob/main/loader_default.svg"></a></h1>
+<h1 align="center">Hi 👋, I'm Auversack Damien<a href="#"><img style="width: 80px;height: 80px;" src="https://github.com/damien-auversack/damien-auversack/blob/main/loader_default.svg"></a></h1>
 <h3 align="center">A passionate Software Developer from Belgium</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
